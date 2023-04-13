@@ -1,0 +1,1002 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+
+    font-size: 18px;
+
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+
+.header {
+    padding: 15px 0px 8px 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #111;
+    font-weight: 500;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.menu ul li {
+    display: inline;
+    padding-right: 5%;
+}
+
+.menu ul {
+    margin-bottom: 0px;
+}
+
+.logo img {
+    width: 65%;
+}
+
+.btnstyle1 {
+
+    background-color: #ff7663;
+    color: white;
+    border: #ff7663;
+    padding: 10px 15px;
+    border-radius: 5px;
+
+}
+
+
+
+.sec-one {
+    background-color: #ece6de;
+    padding: 20px 0px;
+
+}
+
+.sec-one-text {
+    padding: 0px 32px;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.sec-one-text h1 {
+    color: #ff7663;
+    text-align: center;
+    font-size: 67px;
+    line-height: 70px;
+    margin-bottom: 25px;
+
+}
+
+.sec-one-text p {
+    color: #A9A7A2;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.btngroup {
+    margin-top: 30px;
+
+}
+
+.btnblue {
+    background-color: #6194ea;
+    color: white;
+    border: #6194ea;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.btn-contact {
+    background-color: #ff7663;
+    color: white;
+    border: #ff7663;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+
+.sec-two {
+    padding: 70px 0px;
+}
+
+.sec-two p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.content-left h1 {
+    color: #ff7663;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.btn-see-jobs {
+    background-color: #ff7663;
+    color: white;
+    border: #ff7663;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.icon {
+    width: 30%;
+    margin-right: 2%;
+    margin-bottom: 8%;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+.info p {
+    font-size: 14px;
+}
+
+.sec-three {
+    background-color: #ece6de;
+    padding: 50px 0px;
+}
+
+.myworks h1 {
+    color: #ff7663;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.myworks p {
+    color: #A9A7A2;
+    font-size: 25px;
+}
+
+.lightbold {
+    font-weight: 700;
+}
+
+
+
+.sec-four {
+    padding: 30px 0px;
+}
+
+.aboutme h1 {
+    color: #ff7663;
+}
+
+.aboutme p {
+    color: #A9A7A2;
+    font-size: 17px;
+}
+
+
+
+
+.sec-five {
+    background-color: #ece6de;
+    padding: 50px 0px;
+}
+
+.crousel-1 {
+    background-color: white;
+    padding: 30px 50px;
+    margin-right: 38px;
+    width: 31.1%;
+}
+
+
+.crousel-1 h3 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.crousel-1 h1 {
+    color: #6194ea;
+    font-size: 75px;
+    font-weight: 700;
+}
+
+.crousel-1 h5 {
+    font-size: 17px;
+    margin-bottom: -8px;
+    font-weight: 600;
+}
+
+.crousel-1 p {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btnblue2 {
+    background-color: #6194ea;
+    color: white;
+    border: #6194ea;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 30px;
+    
+}
+
+.crousel-1:last-child {
+    margin-right: 0px;
+}
+
+
+
+
+.sec-six {
+    padding: 50px 0px;
+}
+
+.myclient-crousel {
+
+    padding: 30px 25px;
+    margin-right: 38px;
+    width: 31.1%;
+    background-color: #ece6de;
+
+}
+
+.btnblue3 {
+    background-color: #6194ea;
+    color: white;
+    border: #6194ea;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.myclient-crousel img {
+    width: 250px;
+}
+
+.myclient-crousel h2 {
+    margin: 30px 0px;
+    font-weight: 700;
+}
+
+.myclient-crousel p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
+.sec-seven {
+    background-color: #ece6de;
+    padding: 50px 0px;
+}
+
+.client-say h1 {
+    color: #ff7663;
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+
+.client-say img {
+    width: 15%;
+}
+
+.client-say p {
+    margin: 18px 0px;
+    font-size: 20px;
+
+}
+
+.client-say h5 {
+    font-weight: 700;
+}
+
+.sec-eight {
+    padding: 50px 0px;
+}
+
+.FAQ h1 {
+    color: #ff7663;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+.FAQ h4 {
+    font-size: 20px;
+    
+}
+
+
+.sec-nine {
+    background-color: #ece6de;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.contact-form {
+    padding-right: 68px;
+}
+
+.sec-nine h1 {
+    color: #ff7663;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.sec-nine p {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 35px;
+}
+
+.sec-nine input {
+    width: 100%;
+    padding: 16px;
+    font-size: 15px;
+    border: white;
+    margin-bottom: 20px;
+}
+
+.sec-nine textarea {
+    width: 100%;
+    height: 100px;
+    border: white;
+    padding: 15px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.btn-contact-form {
+    background-color: #ff7663;
+    color: white;
+    border: #ff7663;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.contact-form-img img {
+    margin-left: 50px;
+}
+
+
+
+
+
+
+/* RESPONISVE STARTS FROM HERE..... */
+@media only screen and (min-width: 992px) and (max-width:1180px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .btnstyle1 {
+        background-color: #ff7663;
+        color: white;
+        border: #ff7663;
+        padding: 6px 12px;
+        border-radius: 5px;
+    }
+
+    .sec-one-text h1 {
+        font-size: 55px;
+    }
+
+    .sec-one-text p {
+        font-size: 17px;
+    }
+
+
+    .content-left h1 {
+        font-size: 55px;
+    }
+
+    .about-me-img img {
+        height: 100%;
+    }
+
+    .crousel-1 {
+        margin-right: 32.1px;
+    }
+
+    .myclient-crousel {
+        margin-right: 32.1px;
+    }
+
+    .contact-form-img img {
+        height: 100%;
+        margin-left: 0px;
+
+    }
+
+
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .logo img {
+        width: 160px;
+    }
+
+    .menu ul {
+        font-size: 16px;
+    }
+
+    .menu ul li {
+        padding-right: 3%;
+    }
+
+    .btnstyle1 {
+        padding: 5px 10px;
+        font-size: 16px;
+    }
+
+    .sec-one-text h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .sec-one-text p {
+        line-height: 25px;
+        font-size: 16px;
+    }
+
+    .btnblue {
+        padding: 5px 15px;
+        font-size: 16px;
+        margin-right: 15px;
+    }
+
+    .btn-contact {
+        padding: 5px 15px;
+        font-size: 16px;
+    }
+
+    .content-left h1 {
+        font-size: 40px;
+    }
+
+    .sec-two p {
+        font-size: 14px;
+    }
+
+    .info p {
+        font-size: 12px;
+    }
+
+    .icon {
+        width: 55%;
+    }
+
+    .info h4 {
+        font-size: 18px;
+    }
+
+    .btn-see-jobs {
+        padding: 5px 10px;
+        font-size: 16px;
+    }
+
+    .lightbold {
+        margin-bottom: 20px;
+        margin-top: 6px !important;
+    }
+
+    .crousel-1 {
+        margin-right: 24px;
+        padding: 15px 25px;
+    }
+
+    .crousel-1 h3 {
+        font-size: 23px;
+    }
+
+    .crousel-1 h1 {
+        font-size: 55px;
+    }
+
+    .crousel-1 h5 {
+        font-size: 15px;
+    }
+
+    .crousel-1 p {
+        margin-bottom: 40px !important;
+    }
+
+    .btnblue2 {
+
+        padding: 5px 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    .myclient-crousel {
+        margin-right: 24px;
+        padding: 20px 18px;
+    }
+
+    .myclient-crousel p {
+        font-size: 12px;
+    }
+
+    .myclient-crousel h2 {
+        margin: 20px 0px;
+        font-size: 25px;
+    }
+
+    .btnblue3 {
+        font-size: 16px;
+        padding: 5px 10px;
+        font-weight: 400;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .client-say img {
+        width: 14%;
+    }
+
+    .client-say p {
+        font-size: 17px;
+    }
+
+    .FAQ h4 {
+        font-size: 16px;
+        margin-top: 25px;
+        margin-bottom: -12px;
+    }
+
+    .sec-nine p {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .contact-form-img img {
+        height: 100%;
+    }
+
+    .btn-contact-form {
+        padding: 5px 10px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .contact-form {
+        padding-right: 25px;
+    }
+}
+
+
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .logo img {
+        width: 90%;
+    }
+
+    .menu ul li {
+        font-size: 12px;
+        padding-right: 3%;
+    }
+
+    .btnstyle1 {
+        padding: 5px 6px;
+    }
+
+    .sec-one-text h1 {
+        font-size: 29px;
+        line-height: 38px;
+
+    }
+
+    .sec-one-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .btnblue {
+        padding: 5px 10px;
+        font-size: 13px;
+        margin-right: 10px;
+    }
+
+    .btn-contact {
+        padding: 5px 10px;
+        font-size: 13px;
+
+    }
+
+    .content-left h1 {
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+
+    .sec-two p {
+        font-size: 15px;
+    }
+
+
+    .btn-see-jobs {
+        padding: 5px 10px;
+        font-size: 13px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        font-weight: 400;
+    }
+
+    .icon {
+        width: 25%;
+        margin-right: 5%;
+    }
+
+    .info p {
+        font-size: 13px;
+    }
+
+    .myworks p {
+        font-size: 20px;
+    }
+
+    .lightbold {
+        margin-bottom: 15px;
+        margin-top: 3px !important;
+    }
+
+    .crousel-1 {
+        margin-right: 18px;
+        padding: 15px 22px;
+    }
+
+    .crousel-1 h3 {
+        font-size: 22px;
+    }
+
+    .crousel-1 h1 {
+        font-size: 55px;
+    }
+
+    .crousel-1 p {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .crousel-1 h5 {
+        font-size: 14px;
+    }
+
+    .btnblue2 {
+        padding: 5px 10px;
+        font-size: 13px;
+        margin-top: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .myclient-crousel {
+        margin-right: 18px;
+        padding: 15px 22px;
+    }
+
+    .myclient-crousel h2 {
+        margin: 20px 0px;
+    }
+
+    .myclient-crousel p {
+        font-size: 12px;
+    }
+
+    .btnblue3 {
+        padding: 5px 10px;
+        font-size: 13px;
+        margin-top: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .client-say img {
+        width: 18%;
+    }
+
+    .client-say p {
+        font-size: 16px;
+    }
+
+    .FAQ h4 {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .FAQ h1 {
+        margin-bottom: 50px;
+    }
+
+    .sec-nine p {
+        font-size: 17px;
+    }
+
+    .sec-nine input {
+        font-size: 12px;
+        padding: 14px;
+    }
+
+    .btn-contact-form {
+        padding: 5px 10px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .contact-form-img img {
+        display: none;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width:575px) {
+    .container {
+        width: 100%;
+        margin: auto !important;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .logo img {
+        width: 35%;
+    }
+
+    .menu ul li {
+        font-size: 12px;
+        padding-right: 3%;
+    }
+
+    .sec-one-text {
+        padding: 0px 20px;
+    }
+
+    .btnstyle1 {
+        padding: 5px 6px;
+    }
+
+    .text-right {
+        text-align: center;
+    }
+
+    .menu ul {
+        padding-left: 0px;
+    }
+
+    .d-flex-block {
+        display: block !important;
+    }
+
+    .sec-one-text h1 {
+        font-size: 34px;
+        line-height: 37px;
+        margin-top: 50px;
+    }
+
+    .sec-one-text p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .btnblue {
+        font-size: 12px;
+        padding: 5px 10px;
+        font-weight: 300;
+        margin-right: 2%;
+    }
+
+    .btn-contact {
+        font-size: 12px;
+        padding: 5px 10px;
+        font-weight: 300;
+    }
+
+    .content-left h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .sec-two {
+        padding: 25px 0px;
+    }
+
+    .sec-two p {
+        font-size: 15px;
+        line-height: 18px;
+        text-align: left;
+    }
+
+    .content-left {
+        text-align: center;
+    }
+
+    .btn-see-jobs {
+        padding: 4px 7px;
+        font-size: 12px;
+        font-weight: 300;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    .icon {
+        width: 45%;
+    }
+
+    .info h4 {
+        font-size: 16px;
+    }
+
+    .info p {
+        font-size: 11px;
+        line-height: 15px;
+    }
+
+    .sec-three {
+        padding: 25px 0px;
+    }
+
+    .myworks p {
+        font-size: 20px;
+        margin-bottom: 30px !important;
+    }
+
+    .lightbold {
+        margin-bottom: 24px;
+        margin-top: 2px !important;
+    }
+
+    .aboutme p {
+        font-size: 12px;
+    }
+
+    .crousel-1 {
+
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+
+    .crousel-1 h3 {
+        font-size: 23px;
+    }
+
+    .crousel-1 h1 {
+        font-size: 55px;
+    }
+
+    .crousel-1 h5 {
+        font-size: 15px;
+    }
+
+    .crousel-1 p {
+        margin-bottom: 40px !important;
+    }
+
+    .btnblue2 {
+        padding: 5px 10px;
+        font-size: 13px;
+        margin-top: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .sec-six {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .myclient-crousel {
+        width: 100%;
+        margin-bottom: 30px;
+
+    }
+
+    .myclient-crousel p {
+        font-size: 13px;
+    }
+
+    .btnblue3 {
+        font-size: 16px;
+        padding: 5px 10px;
+        font-weight: 300;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .client-say img {
+        width: 20%;
+    }
+
+    .client-say p {
+        font-size: 10px;
+    }
+
+    .client-say h5 {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .sec-eight {
+        padding: 40px 0px;
+    }
+
+    .FAQ h4 {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+
+    .FAQ h1 {
+        margin-bottom: 50px;
+    }
+
+    .sec-nine p {
+        font-size: 12px;
+    }
+
+    .sec-nine input {
+        font-size: 11px;
+        padding: 12px;
+    }
+
+    .contact-form {
+        padding-right: 30px;
+    }
+
+    .btn-contact-form {
+        padding: 5px 10px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .contact-form-img {
+        display: none;
+    }
+}
+
+
+
+
+@media only screen and (max-width:280px) {
+    .menu ul li {
+        font-size: 9px;
+    }
+
+    .btnstyle1 {
+        padding: 3px 4px;
+        font-size: 9px;
+        font-weight: 300;
+    }
+
+    .myworks p {
+        font-size: 15px;
+    }
+
+    .icon {
+        width: 70%;
+    }
+
+    .sec-two p {
+        font-size: 11px;
+    }
+}
